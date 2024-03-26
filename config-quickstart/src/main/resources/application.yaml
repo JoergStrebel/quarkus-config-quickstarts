@@ -1,0 +1,14 @@
+greeting:
+  message: Hallo
+  name: Jörg
+country:
+  - codes:
+      - "cn"
+      - "cn_vg"
+    types:
+      - CAR
+  - codes:
+      - "ab"
+      - "cd"
+    types:
+      - MOTORCYCLE
